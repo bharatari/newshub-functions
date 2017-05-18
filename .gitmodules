@@ -1,0 +1,3 @@
+[submodule "newshub-email"]
+	path = newshub-email
+	url = https://github.com/bharatari/newshub-email.git
