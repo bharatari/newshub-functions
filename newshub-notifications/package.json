@@ -1,0 +1,16 @@
+{
+  "name": "newshub-email",
+  "version": "0.0.0",
+  "description": "An Azure Function that handles email notifications for NewsHub.",
+  "main": "index.js",
+  "dependencies": {
+    "async": "^2.4.0",
+    "sendgrid": "^5.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "",
+  "license": "ISC"
+}

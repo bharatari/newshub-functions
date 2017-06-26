@@ -1,0 +1,12 @@
+{
+  "bindings": [
+    {
+      "name": "emailstosend",
+      "type": "queueTrigger",
+      "direction": "in",
+      "queueName": "emails-to-send",
+      "connection": "sitreanewshub_STORAGE"
+    }
+  ],
+  "disabled": false
+}
